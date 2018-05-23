@@ -52,7 +52,7 @@
 		display: none;
 	}
 	.displayblock{
-		display: block;
+		display: block !important;
 	}
 
 /* Box Model */
