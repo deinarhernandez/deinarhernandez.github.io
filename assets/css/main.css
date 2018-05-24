@@ -55,6 +55,10 @@
 		display: block !important;
 	}
 
+	#conocimientos table td{
+		padding: 0px;
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
